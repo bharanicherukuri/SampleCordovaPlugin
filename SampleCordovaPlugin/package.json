@@ -1,0 +1,17 @@
+{
+  "name": "com-sample-cordova-plugin",
+  "version": "0.1.1",
+  "description": "Sample Cordova Plugin",
+  "cordova": {
+    "id": "com-sample-cordova-plugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "bharani.cherukuri",
+  "license": "ISC"
+}
